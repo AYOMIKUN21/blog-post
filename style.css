@@ -1,9 +1,33 @@
 h1 {
-    color: violet; text-align: center;
+    color: gray; text-align: center; font-style: italic;
 }
 #main {
-    color: darkmagenta; text-align: center;
+    color: darkmagenta; text-align: center; font-style: oblique;
+}
+html {
+    background-color: wheat;
 }
 * {
-    text-align: center;
+    text-align: center; font-style: italic;
+}
+h3 {
+    color: mediumvioletred;
+}
+.seagreen {
+    color: seagreen;
+}
+.cornflowerblue {
+    color: cornflowerblue;
+}
+.grey {
+    color: grey;
+}
+p {
+    font-style: italic;
+}
+.chocolate {
+    color: chocolate;
+}
+.brown {
+    color: brown;
 }
