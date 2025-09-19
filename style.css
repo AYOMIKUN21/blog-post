@@ -1,33 +1,58 @@
-h1 {
-    color: gray; text-align: center; font-style: italic;
-}
-#main {
-    color: darkmagenta; text-align: center; font-style: oblique;
-}
 html {
-    background-color: wheat;
+    background-color: darkolivegreen;
 }
-* {
-    text-align: center; font-style: italic;
+
+#rem {
+    font-size: 1rem;
 }
+
+#main {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: burlywood;
+    background-color: black;
+}
+
+img {
+    padding-left: 150px;
+}
+
+.img-1 {
+    width:300px ;
+}
+
+h2 {
+    font-weight: 900;
+    font-style: oblique;
+    background-color: black;
+    text-align: center;
+}
+
 h3 {
-    color: mediumvioletred;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.seagreen {
-    color: seagreen;
+
+p {
+    text-align: center;
+    color: white;
 }
-.cornflowerblue {
-    color: cornflowerblue;
-}
+
 .grey {
     color: grey;
 }
-p {
-    font-style: italic;
+
+.cornflowerblue {
+    color: cornflowerblue;
 }
+
 .chocolate {
     color: chocolate;
 }
-.brown {
-    color: brown;
+
+.seagreen {
+    color: seagreen;
 }
